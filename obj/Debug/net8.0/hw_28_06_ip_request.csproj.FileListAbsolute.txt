@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\bin\Debug\net8.0\hw_28_06_ip_request.exe
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\bin\Debug\net8.0\hw_28_06_ip_request.deps.json
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\bin\Debug\net8.0\hw_28_06_ip_request.runtimeconfig.json
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\bin\Debug\net8.0\hw_28_06_ip_request.dll
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\bin\Debug\net8.0\hw_28_06_ip_request.pdb
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\obj\Debug\net8.0\hw_28_06_ip_request.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\obj\Debug\net8.0\hw_28_06_ip_request.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\obj\Debug\net8.0\hw_28_06_ip_request.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\obj\Debug\net8.0\hw_28_06_ip_request.AssemblyInfo.cs
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\obj\Debug\net8.0\hw_28_06_ip_request.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\obj\Debug\net8.0\hw_28_06.7F51D756.Up2Date
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\obj\Debug\net8.0\hw_28_06_ip_request.dll
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\obj\Debug\net8.0\refint\hw_28_06_ip_request.dll
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\obj\Debug\net8.0\hw_28_06_ip_request.pdb
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\obj\Debug\net8.0\hw_28_06_ip_request.genruntimeconfig.cache
+C:\Users\Dell\source\repos\C#_ConsoleApp\hw_28_06_ip_request\obj\Debug\net8.0\ref\hw_28_06_ip_request.dll
